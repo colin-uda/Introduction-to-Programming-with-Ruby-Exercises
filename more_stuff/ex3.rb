@@ -1,0 +1,1 @@
+# Expection Handling is a structure used to handle any errors occuring in the program. It is a way of handling the error by changing the flow of control without exiting the program entirely.
